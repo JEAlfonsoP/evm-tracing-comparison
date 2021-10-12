@@ -54,7 +54,7 @@ As the search in 4byte.directory is manual (239,764 signatures) a complementary 
 
 https://github.com/ethereum-lists/4bytes :
 
-his is a collection of Ethereum Method signatures. It can be used to get the text-signatures from hex-signatures (with 4-bytes - hence the name)
+This is a collection of Ethereum Method signatures. It can be used to get the text-signatures from hex-signatures (with 4-bytes - hence the name)
 
 A real world example:
 
