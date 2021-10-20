@@ -18,3 +18,26 @@ could be of a great help. (thanks to @ralexstokes, @holiman)
 
 Now the access to blocks have been granted, evaluation for latest block will be proposed. (In Progress)
 
+
+
+Please find all the necessary scripts in order to access and visualize:
+
+Block and transaction info (and traces) online:
+
+trace_all_traces_transaction_hash.sh
+
+trace_block_by_number.sh
+
+trace_latest_block.sh
+
+trace_latest_block_number.sh
+
+trace_transaction_by_block_index.sh
+
+trace_transaction_count_by_block.sh
+
+trace_transaction_hash_by_block_index.sh
+
+trace_transaction_receipt_hash.sh
+
+transaction_hash_4_bytes.sh
