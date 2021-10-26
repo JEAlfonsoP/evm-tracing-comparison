@@ -16,7 +16,7 @@ These examples could, depending of terminal used, generate a 32700 error, if thi
 https://jsonlint.com/
 could be of a great help. (thanks to @ralexstokes, @holiman)
 
-Now the access to blocks have been granted, evaluation for latest block will be proposed. (In Progress)
+Now the access to blocks have been granted, evaluation for any block and any transaction will be proposed. 
 
 
 
