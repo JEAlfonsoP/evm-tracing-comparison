@@ -6,7 +6,7 @@ $ ssh -v tempuser@mon02.ethdevops.io -i ~/.ssh/shared_temp_key -L 8545:localhost
 $ geth attahc http://localhost:8545
 
 
-Once you have granted access all you need to to is, i.e:
+Once you have granted access all you need to do is, i.e:
 #this will display the list of APIs available
 #Note: MacBook Pro terminal
 
