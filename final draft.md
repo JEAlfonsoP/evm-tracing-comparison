@@ -8,6 +8,8 @@
 
 ###### Prepared by Jose Alfonso Computer Engineer
 ##### DATE November 2021
+#
+
 #### Table of Contents
 ###### .Abstract 
 ###### .Motivation 
@@ -38,6 +40,8 @@ With the inminent worldwide mass adoption of Blockchain thecnology and Cryptocur
 
 The following work is a condensated approximation to show that cannonical states between all different clients is TRUE, and that it is just a matter, of a classic, standarization phase, normally required during the mega expansion states, that in our partiulary case, Ethereum is facing today.
 
+#
+
 **Scope:** This work is a response to Ethereum-cdap / cohort-one Issue #43. Compare Tracing API outputs across clients. @TimBeiko, @Piper
 
 ### - **Previous Work (not limited to:)**
@@ -60,6 +64,8 @@ Ethereum Trace Testing. Thomas Jay Rush
 There are many other projects specifically dealing with this issue, but due to the generic reference that this work pretends to present the above mentioned should be more than enough reading material to catch up and understand the need for a final (if possible) EIP that once and for all standarizes this subject. Additional reading, if considered, would be listed at the end.
 
 **Note:** MUST See: Nethermind, Tomasz Kajetan Stan'czak, Jared Doro. Work On Progress.
+#
+
 
 ### - **JSON-RPC** 
 
@@ -71,6 +77,7 @@ Application Programming Interface. In other words, an API is the messenger that 
 
 Where the JSON-RPC APIs are for every Ethereum client a set of uniformed methods (data structures and the rules around their processing) that allow software applications, once connected to a node, interact with the Ethereum blockchain (reading blockchain data and/or sending transactions to the network). 
 
+#
 
 ### - **Specifications**
 
@@ -168,6 +175,8 @@ autor, difficulty, extraData, gasLimit, gasUsed, hash, logsBloom, miner, mixHash
 
 {"gas":"0x672c","failed":false,"returnValue":"0x","structLogs":[{"pc":0,"op":"PUSH1","gas":24740,"gasCost":3,"depth":1,"error":null,"stack":[],"memory":[],"storage":{}},{"pc":2,"op":"PUSH1","gas":24737,"gasCost":3,"depth":1,"error":null,"stack":["0000000000000000000000000000000000000000000000000000000000000080"],"memory":[],"storage":{}},
 
+
+#
 
 ### - **Reading Material:** 
 
