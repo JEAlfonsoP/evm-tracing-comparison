@@ -9,17 +9,8 @@
 ###### Prepared by Jose Alfonso Computer Engineer
 ##### DATE November 2021
 #### Table of Contents
-##### .Abstract ##### .Motivation
-##### .Introduction
-##### .Scope
-##### .Previous Work
-##### .Work on Progress
-##### **.JSON-RPC**    
-##### **.API**   
-##### .Specifications  
-##### .Observations: Comparison Table  
-##### .Reading Material
-**Thanks!**
+###### .Abstract .Motivation .Introduction .Scope .Previous Work/Work on Progress **.JSON-RPC** **.API** .Specifications .Observations: Comparison Table .Reading Material
+###### **Thanks!**
 
 ### - **Abstract**
 
