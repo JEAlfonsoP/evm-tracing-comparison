@@ -5,21 +5,21 @@
 **for**
 
 
-[**ethereum-cdap](https://github.com/ethereum-cdap)**/[cohort-one**](https://github.com/ethereum-cdap/cohort-one)**
+## [**ethereum-cdap](https://github.com/ethereum-cdap)**/[cohort-one**](https://github.com/ethereum-cdap/cohort-one)**
 
-[**https://github.com/ethereum-cdap/cohort-one/issues/43**](https://github.com/ethereum-cdap/cohort-one/issues/43)
+## [**https://github.com/ethereum-cdap/cohort-one/issues/43**](https://github.com/ethereum-cdap/cohort-one/issues/43)
 
 
-**Version draft**
+#### **Version draft**
 
-**Prepared by**
+#### **Prepared by**
 
-**Jose Alfonso**
+## **Jose Alfonso**
 
 **Computer Engineer**
 
 
-**DATE**
+### **DATE**
 
 **November 2021**
 
