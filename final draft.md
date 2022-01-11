@@ -22,15 +22,12 @@
 .Reading Material \  
 **Thanks!**
 
-- **Abstract**
+### - **Abstract**
 
 A comparison table for Geth and Nethermind API traces is presented. There is a constant need for API standardization between clients. For this work, Blocks and Transactions APIs are compared and analyzed back and forward into the blockchain, observing data structure and value for returned objects.  
+### - **Motivation**
 
-
-
-- **Motivation**
-
-I was so lucky to find Ethereum - CDAP program ! 
+**I was so lucky to find Ethereum - CDAP program !** 
 
 Being a 48 year old Computer Engineer with more than 25 years graduated, but never worked in Computer Sciences (I was developed as an Oilfield and Oil Refinery expert), finding this program, has allowed me in a serious, professional, advanced and friendly environment to catch up with the latest, best and tip of the spear blockchain technology as Ethereum it is. 
 
@@ -38,10 +35,7 @@ Getting involved in this project, ***Compare Tracing API Outputs Across Clients*
 
 ` `During this quest, I studied different EIPs, the Yellow Paper, Ethereum from inside and the most important, having met part of the team that makes all of this possible. 
 
-
-
-
-- **Introduction**
+### - **Introduction**
 
 With the inminent worldwide mass adoption of Blockchain thecnology and Cryptocurrencies, the fact that Ethereum is the biggest real-world day to day blockchain network, and the beginning of Consencus era happening in weeks from now, it is understandable that development and functionallity client's UI (APIs) evolved in some level of an unstandarized configuration.
 
@@ -49,9 +43,7 @@ The following work is a condensated approximation to show that cannonical states
 
 **Scope:** This work is a response to Ethereum-cdap / cohort-one Issue #43. Compare Tracing API outputs across clients. @TimBeiko, @Piper
 
-
-
-- **Previous Work (not limited to:)**
+### - **Previous Work (not limited to:)**
 
 EIP 1474 Remote procedure call soecification. Paul Bochon, Erik Marks
 
@@ -62,52 +54,38 @@ EIP 234 Add 'blockHash' to JSON-RPC filter options. Micah Zoltu
 EIP-3155 EVM trace specification. Martin Holst Swende, Marius van der Wijden
 
 
-
-**Work On progress (not limited to:)**
+### **Work On progress (not limited to:)**
 
 Edge cases of Ethereum JSON-RPC endpoints 2.0. Tomasz Kajetan Stan'czak, Jared Doro 
 
 Ethereum Trace Testing. Thomas Jay Rush 
 
-
-
 There are many other projects specifically dealing with this issue, but due to the generic reference that this work pretends to present the above mentioned should be more than enough reading material to catch up and understand the need for a final (if possible) EIP that once and for all standarizes this subject. Additional reading, if considered, would be listed at the end.
 
-Note: MUST See: Nethermind, Tomasz Kajetan Stan'czak, Jared Doro. Work On Progress.
+**Note:** MUST See: Nethermind, Tomasz Kajetan Stan'czak, Jared Doro. Work On Progress.
 
-
-
-
-- **JSON-RPC** 
+### - **JSON-RPC** 
 
 The Ethereum JSON-RPC is a collection of methods that all clients implement. This interface allows downstream tooling and infrastructure to treat different Ethereum clients as modules that can be swapped at will. (ethereum/execution-apis , Danny Ryan). From another perpesctive is a stateless, light-weight remote procedure call (RPC) protocol.  
 
-
-
-**API**
+### **API**
 
 Application Programming Interface. In other words, an API is the messenger that delivers a request from point a to point b and then delivers a response from b to a. 
 
 Where the JSON-RPC APIs are for every Ethereum client a set of uniformed methods (data structures and the rules around their processing) that allow software applications, once connected to a node, interact with the Ethereum blockchain (reading blockchain data and/or sending transactions to the network). 
 
 
-
-
-- **Specifications**
+### - **Specifications**
 
 1. Scripts
-1. Data Example
-1. Test Cases
+2. Data Example
+3. Test Cases
 
-For the above data please consult: <https://github.com/JEAlfonsoP/evm-tracing-comparison>
+**For the above data please consult:** <https://github.com/JEAlfonsoP/evm-tracing-comparison>
 
+### - **Observations (from mine limited position)**
 
-
-- **Observations (from mine limited position)**
-
-
-
-**Comparison Table**
+### **Comparison Table**
 
 Clients: Geth, Nethermind
 
@@ -129,7 +107,7 @@ Clients: Geth, Nethermind
 |<p></p><p>trace\_transaction: function()</p><p></p>|Not|Supported|
 
 
-**Quick Notes:** 
+#### **Quick Notes:** 
 
 Geth uses for eth or debug APIs “.” followed by the ”API-name”, Nethermind uses “\_” followed by the ”API-name” 
 
@@ -137,11 +115,7 @@ The above APIs are “eth” if not specified something different.
 
 It is relevant to mentioned that Clients generated different list of returned values for the queries.  
 
-*Some examples for returned values are (listed as returned):*
-
-
-
-
+**Some examples for returned values are (listed as returned):**
 
 **eth.getBlock / eth\_getBlock**
 
@@ -153,8 +127,7 @@ baseFeePerGas, difficulty, extraData, gasLimit, gasUsed, hash, logsBloom, miner,
 
 autor, difficulty, extraData, gasLimit, gasUsed, hash, logsBloom, miner, mixHash, nonce, number, parentHash, receiptsRoot, sha3Uncles, size, stateRoot, totalDifficulty, timestamp, baseFeePerGas, transactions, transactionsRoot, uncles.      
 
-traceTransaction
-
+**traceTransaction**
 
 **debug.traceTransaction / debug\_traceTransaction**  
 
@@ -200,7 +173,7 @@ traceTransaction
 {"gas":"0x672c","failed":false,"returnValue":"0x","structLogs":[{"pc":0,"op":"PUSH1","gas":24740,"gasCost":3,"depth":1,"error":null,"stack":[],"memory":[],"storage":{}},{"pc":2,"op":"PUSH1","gas":24737,"gasCost":3,"depth":1,"error":null,"stack":["0000000000000000000000000000000000000000000000000000000000000080"],"memory":[],"storage":{}},
 
 
-- **Reading Material:** 
+### - **Reading Material:** 
 
 
 Ethereum Yellow Paper
@@ -223,7 +196,7 @@ EIP 1474, 1898, 234, 3155, 1559, 4345, and others
 
 
 
-- **Thanks!**
+## - **Thanks!**
 
 Tim Beiko, Piper, lightclient, holiman, ralexstokes, Pooja Ranjan, ligi, jared 
 
