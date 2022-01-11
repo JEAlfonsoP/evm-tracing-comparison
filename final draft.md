@@ -17,7 +17,7 @@ Previous Work \
 Work on Progress \
 **JSON-RPC**    
 **API**   
-Specifications \ 
+Specifications\  
 Observations: Comparison Table \  
 Reading Material \  
 **Thanks!**
