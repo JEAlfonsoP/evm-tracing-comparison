@@ -17,11 +17,8 @@ Previous Work \
 Work on Progress \
 **JSON-RPC** \    
 **API** \   
-Specification \ 
-Scripts \ 
-Data example \ 
-Test \ 
-Cases \ Observations \ 
+Specification \  
+Observations \ 
 Comparison Table \ 
 Reading Material \  
 **Thanks!**
