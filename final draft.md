@@ -17,6 +17,7 @@
 ###### .Specifications with Observations: Comparison Table 
 ###### .Reading Material, **Thanks!**
 
+
 ### - **Abstract**
 
 A comparison table for Geth and Nethermind API traces is presented. There is a constant need for API standardization between clients. For this work, Blocks and Transactions APIs are compared and analyzed back and forward into the blockchain, observing data structure and value for returned objects.  
