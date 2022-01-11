@@ -2,22 +2,17 @@
 
 # **Compare Tracing API Outputs Across Clients**
 
-#### for
-
 ### [**ethereum-cdap](https://github.com/ethereum-cdap)**/[cohort-one**](https://github.com/ethereum-cdap/cohort-one)**
 ### [**https://github.com/ethereum-cdap/cohort-one/issues/43**](https://github.com/ethereum-cdap/cohort-one/issues/43)
+##### Version draft
 
-#### Version draft
-
-#### Prepared by
+##### Prepared by
 ##### Jose Alfonso
 Computer Engineer
-
 ##### DATE
 November 2021
-
-### Table of Contents
-Abstract #
+#### Table of Contents
+Abstract \
 Motivation
 Introduction
 Scope
