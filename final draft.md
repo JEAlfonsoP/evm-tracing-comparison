@@ -15,12 +15,12 @@ Introduction \
 Scope \
 Previous Work \
 Work on Progress \
-**JSON-RPC** \    
-**API** \   
-Specification \  
-Observations \ 
-Comparison Table \ 
-Reading Material \  
+#### JSON-RPC    
+#### API   
+Specification '\'  
+Observations '\' 
+Comparison Table '\' 
+Reading Material '\'  
 **Thanks!**
 
 
