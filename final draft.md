@@ -42,7 +42,8 @@ The following work is a condensated approximation to show that cannonical states
 
 #
 
-### **Scope:** This work is a response to Ethereum-cdap / cohort-one Issue #43. Compare Tracing API outputs across clients. @TimBeiko, @Piper
+### **Scope:** This work is a response to Ethereum-cdap / cohort-one Issue #43. Compare Tracing API outputs across clients. 
+@TimBeiko, @Piper
 
 ### - **Previous Work (not limited to:)**
 
