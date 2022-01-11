@@ -127,8 +127,7 @@ baseFeePerGas, difficulty, extraData, gasLimit, gasUsed, hash, logsBloom, miner,
 
 autor, difficulty, extraData, gasLimit, gasUsed, hash, logsBloom, miner, mixHash, nonce, number, parentHash, receiptsRoot, sha3Uncles, size, stateRoot, totalDifficulty, timestamp, baseFeePerGas, transactions, transactionsRoot, uncles.      
 
-**traceTransaction**
-
+**another example: traceTransaction, note the format difference**
 **debug.traceTransaction / debug\_traceTransaction**  
 
 **Geth**
