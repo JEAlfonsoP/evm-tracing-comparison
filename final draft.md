@@ -2,32 +2,29 @@
 
 # **Compare Tracing API Outputs Across Clients**
 
-### [**ethereum-cdap](https://github.com/ethereum-cdap)**/[cohort-one**](https://github.com/ethereum-cdap/cohort-one)**
-### [**https://github.com/ethereum-cdap/cohort-one/issues/43**](https://github.com/ethereum-cdap/cohort-one/issues/43)
+#### [**ethereum-cdap](https://github.com/ethereum-cdap)**/[cohort-one**](https://github.com/ethereum-cdap/cohort-one)**
+#### [**https://github.com/ethereum-cdap/cohort-one/issues/43**](https://github.com/ethereum-cdap/cohort-one/issues/43)
 ##### Version draft
 
-##### Prepared by
-##### Jose Alfonso
-Computer Engineer
-##### DATE
-November 2021
+###### Prepared by Jose Alfonso Computer Engineer
+##### DATE November 2021
 #### Table of Contents
 Abstract \
-Motivation
-Introduction
-Scope
-Previous Work
-Work on Progress
-## JSON-RPC 
-*API* 
-**Specification**
-*Scripts*
-*Data example*
-*Test Cases*
-**Observations**
-**Comparison Table**
-**Reading Material**
-#### **Thanks!**
+Motivation \
+Introduction \
+Scope \
+Previous Work \
+Work on Progress \
+#### JSON-RPC 
+**API** \ 
+Specification \
+Scripts \
+Data example \
+Test Cases \  
+Observations \
+Comparison Table \
+Reading Material \
+**Thanks!**
 
 
 
