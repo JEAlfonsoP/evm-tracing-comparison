@@ -24,7 +24,7 @@ November 2021
 #### Scope
 #### Previous Work
 #### Work on Progress
-## JSON-RPC 
+##JSON-RPC 
 ### *API* 
 #### **Specification**
 #### *Scripts*
