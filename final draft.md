@@ -9,7 +9,7 @@
 ###### Prepared by Jose Alfonso Computer Engineer
 ##### DATE November 2021
 #### Table of Contents
-Abstract \
+Abstract
 Motivation \
 Introduction \
 Scope \
