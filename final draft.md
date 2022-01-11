@@ -9,21 +9,17 @@
 ###### Prepared by Jose Alfonso Computer Engineer
 ##### DATE November 2021
 #### Table of Contents
-Abstract \ 
+Abstract \
 Motivation \
 Introduction \
 Scope \
 Previous Work \
 Work on Progress \
-**JSON-RPC** \  
-**API** \ 
-Specification \
-Scripts \
-Data example \ 
-Test Cases \  
-Observations \ 
-Comparison Table \ 
-Reading Material \ 
+**JSON-RPC**   
+**API**  
+Specification
+Scripts
+Data example Test CasesObservationsComparison Table Reading Material 
 **Thanks!**
 
 
