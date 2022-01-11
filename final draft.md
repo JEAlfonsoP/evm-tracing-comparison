@@ -4,33 +4,19 @@
 
 #### for
 
-
 ## [**ethereum-cdap](https://github.com/ethereum-cdap)**/[cohort-one**](https://github.com/ethereum-cdap/cohort-one)**
-
 ## [**https://github.com/ethereum-cdap/cohort-one/issues/43**](https://github.com/ethereum-cdap/cohort-one/issues/43)
-
 
 #### Version draft
 
 #### Prepared by
-
 ## Jose Alfonso
-
 Computer Engineer
 
-
 ### DATE
-
 November 2021
 
-
-
-
-
-
-
 ## Table of Contents
-
 
 ### Abstract
 ### Motivation
@@ -39,27 +25,15 @@ November 2021
 ### Previous Work
 ### Work on Progress
 # **JSON-RPC** 
-
 ## *API* 
-## **Specification**
-## *Scripts*
-## *Data example*
-## *Test Cases*
-## **Observations**
-
-## **Comparison Table**
+### **Specification**
+### *Scripts*
+### *Data example*
+### *Test Cases*
+### **Observations**
+### **Comparison Table**
 ### **Reading Material**
-
-# **Thanks!**
-
-
-
-
-
-
-
-
-
+## **Thanks!**
 
 
 
