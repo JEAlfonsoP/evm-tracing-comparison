@@ -1,6 +1,6 @@
 ﻿
 
-**Compare Tracing API Outputs Across Clients**
+# **Compare Tracing API Outputs Across Clients**
 
 **for**
 
